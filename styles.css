@@ -13,8 +13,6 @@ body{
 .col-lg-4{
 	background-color: #f7fbff !important;
 	border-top: 3px solid #5ea4f3 !important;
-	 
-	
 }
 span{
 	display: block;
@@ -30,4 +28,7 @@ div.product input{
 .product div{
 	/* border: 1px solid red; */
 	align-items: center; 
-   
+}
+.row{
+	display: flex;
+}
