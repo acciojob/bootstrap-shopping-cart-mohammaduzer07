@@ -21,14 +21,14 @@ div.button button{
 	width: 100%;
 
 }
-div.product input{
+div.col-lg-8 input{
 	width: 4rem;
 	text-align: center;
 }
-.product div{
+div.product label {
 	/* border: 1px solid red; */
 	align-items: center; 
 }
-.row{
-	display: flex;
+/* .row{
+	display: flex; */
 }
