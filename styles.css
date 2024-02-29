@@ -2,15 +2,29 @@
             margin: 0 !important;
             padding: 0 !important;
             box-sizing: border-box !important;
-        }
+}
+body{
+	background: #ffffff !important;
+}
+.title{
+	color: #3b99e0;
+}
 .summary{
-	background: #f7fbff !imporatnt;
+	background-color: #f7fbff !imporatnt;
 	border-top: 3px solid #5ea4f3 !important;
 }
 div.button button{
+	color: white;
 	width: 100%;
 	height:100%;
-	background: #027bff !important;
-	border-radius: 4px !important;
-	border: none;
+}
+div input{
+	width: 3rem;
+	text-align: center;
+}
+span{
+	display: block;
+}
+.products-1 div {
+	align-items: center;
 }
